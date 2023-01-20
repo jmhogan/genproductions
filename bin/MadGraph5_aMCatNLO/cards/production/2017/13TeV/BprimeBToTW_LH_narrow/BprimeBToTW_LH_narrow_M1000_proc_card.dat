@@ -8,6 +8,6 @@ import model VLQ_v4_4FNS_UFO
 define bb = b b~
 define Topo = bp bp~
 
-generate g u > j bb Topo / h [QCD]
+generate p p > j bb Topo / h [QCD]
 
 output BprimeBToTW_LH_narrow_M1000
